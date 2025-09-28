@@ -1,5 +1,13 @@
 # 💫 About Me:
-Iam working as a senior android developer<br>and iam currently learning AI
+👨‍💻 Senior Android Developer
+
+🟢 Native Android (Java/Kotlin)
+
+🔷 Flutter (Cross-platform Development)
+
+🤖 Currently Learning
+
+🧠 Artificial Intelligence (AI & Machine Learning)
 
 
 ## 🌐 Socials:
